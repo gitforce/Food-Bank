@@ -1,0 +1,21 @@
+{
+  "C:\\Users\\itay.ben-david\\Documents\\GitHub\\Food-Bank\\force-app": {
+    "sourcePath": "C:\\Users\\itay.ben-david\\Documents\\GitHub\\Food-Bank\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1630684612373,
+    "changeTime": 1630684612373,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\itay.ben-david\\Documents\\GitHub\\Food-Bank": {
+    "sourcePath": "C:\\Users\\itay.ben-david\\Documents\\GitHub\\Food-Bank",
+    "isDirectory": true,
+    "modifiedTime": 1630688150936,
+    "changeTime": 1630688150936,
+    "contentHash": "a7586af2d135d54f1936190bb25821a73ccea28d",
+    "state": "u",
+    "isWorkspace": true
+  }
+}
