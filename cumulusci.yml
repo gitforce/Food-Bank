@@ -3,8 +3,6 @@ project:
     name: Food-Bank
     package:
         name: CCI-Food-Bank
-        package:
-            name:  CCI-Food-Bank
             namespace: cumpkg
             api_version: '52.0'
     source_format: sfdx
