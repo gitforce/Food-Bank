@@ -2,8 +2,12 @@ minimum_cumulusci_version: '3.43.0'
 project:
     name: Food-Bank
     package:
-        name: Food-Bank-Package
-        api_version: '52.0'
+        name: CCI-Food-Bank
+        package:
+            name:  CCI-Food-Bank
+            namespace: cumpkg
+            api_version: '47.0'
+    source_format: sfdx
     git:
         default_branch: 'main'
     source_format: sfdx
